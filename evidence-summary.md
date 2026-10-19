@@ -40,6 +40,3 @@ Five most relevant studies from PubMed, with full publication details:
 
 ## Largest cohort
 The largest patient cohort in this set is **PMID 34021885** (Esposito et al., Updates in Surgery, 2021) with **152 patients**.
-
-## Largest cohort
-The largest patient cohort in this set is **PMID 34021885** (Esposito et al., Updates in Surgery, 2021) with **152 patients**.
